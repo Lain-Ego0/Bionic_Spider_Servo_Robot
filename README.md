@@ -2,7 +2,8 @@
 
 # Bionic_Spider_Servo_Robot
 
-本项目完成于2024年2月24日，不再更新。翻译为英文
+本项目完成于2024年2月24日，不再更新。
+
 This project was completed on February 24, 2024, and will no longer be updated.
 
 ## 项目简介
