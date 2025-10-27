@@ -1,4 +1,9 @@
+
+
 # Bionic_Spider_Servo_Robot
+
+本项目完成于2024年2月24日，不再更新。翻译为英文
+This project was completed on February 24, 2024, and will no longer be updated.
 
 ## 项目简介
 这是一个基于STM32F103C8T6的八自由度舵机蜘蛛机器人项目，具备**蓝牙无线遥控**和**OLED显示屏表情切换**功能。机器人采用仿生蜘蛛结构，通过8个舵机实现多方向移动、姿态调整，并可通过手机APP发送指令切换OLED屏幕上的趣味表情，适合机器人爱好者学习STM32硬件控制、蓝牙通信和嵌入式开发。
